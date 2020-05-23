@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-17T14:32:07 IST" name="Suite" finished-at="2020-05-17T14:32:27 IST" duration-ms="20400">
+    <groups>
+    </groups>
+    <test started-at="2020-05-17T14:32:07 IST" name="Test" finished-at="2020-05-17T14:32:27 IST" duration-ms="20400">
+      <class name="testCases.SupportAccountPage">
+        <test-method is-config="true" signature="initialise()[pri:0, instance:testCases.SupportAccountPage@58c34bb3]" started-at="2020-05-17T14:32:15 IST" name="initialise" finished-at="2020-05-17T14:32:22 IST" duration-ms="7181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method signature="HomePageNavigation()[pri:0, instance:testCases.SupportAccountPage@58c34bb3]" started-at="2020-05-17T14:32:26 IST" name="HomePageNavigation" finished-at="2020-05-17T14:32:27 IST" duration-ms="989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageNavigation -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:testCases.SupportAccountPage@58c34bb3]" started-at="2020-05-17T14:32:27 IST" name="driverclose" finished-at="2020-05-17T14:32:27 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+      </class> <!-- testCases.SupportAccountPage -->
+      <class name="testCases.Landing_page">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:testCases.Landing_page@73163d48]" started-at="2020-05-17T14:32:07 IST" name="initialization" finished-at="2020-05-17T14:32:15 IST" duration-ms="7808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="HomePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:testCases.Landing_page@73163d48]" started-at="2020-05-17T14:32:22 IST" name="HomePageNavigation" data-provider="getData" finished-at="2020-05-17T14:32:26 IST" duration-ms="4063" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lipi.jain6@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Something@151993]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageNavigation -->
+        <test-method is-config="true" signature="driverclose()[pri:0, instance:testCases.Landing_page@73163d48]" started-at="2020-05-17T14:32:27 IST" name="driverclose" finished-at="2020-05-17T14:32:27 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverclose -->
+      </class> <!-- testCases.Landing_page -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

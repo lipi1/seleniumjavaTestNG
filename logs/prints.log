@@ -1,0 +1,6 @@
+11:28:08.676 [main] INFO  testCases.Landing_page - website has been opened successfully
+11:28:17.453 [main] INFO  testCases.Landing_page - Successfully Login in to the website
+11:31:03.809 [main] INFO  testCases.Landing_page - website has been opened successfully
+11:31:15.549 [main] INFO  testCases.Landing_page - Successfully Login in to the website
+11:31:22.409 [main] INFO  testCases.SupportAccountPage - Application has been opened successfully
+11:31:25.544 [main] INFO  testCases.SupportAccountPage - Support site has been open successfully
