@@ -24,6 +24,7 @@ public  class Landing_page extends base {
 		driver = InitialiseBrowser(); //inheritance --you can method of class to another method and here we are
 		driver.get(prop.getProperty("url"));
 		log.info("website has been opened successfully");
+		System.out.println("this is to test the github");
 	}
 	
 	@Test(dataProvider = "getData") // 
